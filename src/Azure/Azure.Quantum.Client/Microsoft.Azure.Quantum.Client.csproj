@@ -20,7 +20,7 @@
 
   <ItemGroup>
     <PackageReference Include="Azure.Core" Version="1.0.1" />
-    <PackageReference Include="Azure.Storage.Blobs" Version="12.2.0" />
+    <PackageReference Include="Azure.Storage.Blobs" Version="12.13.0" />
     <PackageReference Include="Microsoft.Rest.ClientRuntime" Version="2.3.21" />
     <PackageReference Include="Microsoft.Rest.ClientRuntime.Azure" Version="3.3.19" />
     <PackageReference Include="Microsoft.Identity.Client.Extensions.Msal" Version="2.10.0-preview" />
